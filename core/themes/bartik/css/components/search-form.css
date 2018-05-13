@@ -18,7 +18,7 @@
 }
 .button.search-form__submit,
 .search-form__submit {
-  background: #f0f0f0 url(../../../../misc/icons/505050/loupe.svg) no-repeat center;
+  background: #bb0c0c url(../../../../misc/icons/505050/loupe.svg) no-repeat center;
   cursor: pointer;
   height: 26px;
   margin-left: 0;
